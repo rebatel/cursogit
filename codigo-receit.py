@@ -1,2 +1,3 @@
-///apenas leitura de testes
-read("receita-bolo")
+# teste de receita de bolo
+
+f = os.walk('receitabolo.txt', 'r')
